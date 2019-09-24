@@ -1,4 +1,4 @@
 # chat
 Chat with Spring MVC
 
-![login to the chat room](https://raw.githubusercontent.com/Eliezer-Brand/chat/images/login.jpg)
+![login to the chat room](https://github.com/Eliezer-Brand/chat/blob/chat/images/login.jpg)
